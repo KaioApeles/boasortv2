@@ -1,0 +1,18 @@
+.navbar{
+  border-radius: 5px;
+
+}
+.navbar li {
+  padding: 15px;
+  color: rgb(230, 230, 230);  
+  text-decoration: none;
+  font-size: 1em;
+}
+.navbar li:hover{
+  text-decoration: none;
+  color: white;
+}
+.navbar li:active{
+  text-decoration: none;
+  color: white;
+}
