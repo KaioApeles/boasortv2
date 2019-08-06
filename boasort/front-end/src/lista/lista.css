@@ -5,3 +5,23 @@
 .btn {
   margin-right: 5px;  
 }
+
+.action{  
+  font-weight: bold;
+}
+
+.table {
+  color: azure;
+}
+
+h2{
+  color: azure;
+}
+
+#item_true{
+  text-decoration-line: line-through;
+}
+
+#danger_false{
+  display: none;
+}

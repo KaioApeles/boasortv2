@@ -1,18 +1,18 @@
-.navbar{
-  border-radius: 5px;
-
-}
 .navbar li {
   padding: 15px;
-  color: rgb(230, 230, 230);  
+  color: rgb(54, 54, 54);  
   text-decoration: none;
   font-size: 1em;
 }
 .navbar li:hover{
   text-decoration: none;
-  color: white;
+  color: rgb(44, 44, 44);
 }
 .navbar li:active{
   text-decoration: none;
-  color: white;
+  color: rgb(44, 44, 44);
+}
+
+body{
+  background-color: rgb(67, 67, 185);
 }

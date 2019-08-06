@@ -12,7 +12,7 @@ import Cadastro from './cadastro/cadastro';
 function App() {
   return (    
       <Router>
-        <div className='container'>
+        <div className='container-fluid'>
         <NavBar />
         <Switch>
           <Route path='/' exact component={Sorteio} />

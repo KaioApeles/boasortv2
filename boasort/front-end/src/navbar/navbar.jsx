@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom'
 
 const navBar = () => {
   return(
-    <nav className='navbar navbar-dark bg-dark navbar-expand-lg' id='navbar'>
-      <div className='collapse navbar-collapse'>
+    <nav className='navbar navbar-icon-top navbar-expand-lg navbar-light bg-light' id='navbar'>
+      <div className='navbar-brand'>
         <ul className='navbar-nav justify-content-center'>
           <Link to='/sorteio'>
             <li><i className='fa fa-gift' aria-hidden="true"></i> Sorteio</li>
